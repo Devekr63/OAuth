@@ -1,0 +1,5 @@
+com/appsdeveloperblog/ress/AlbumsApp/data/Album.class
+com/appsdeveloperblog/ress/AlbumsApp/AlbumsAppApplication.class
+com/appsdeveloperblog/ress/AlbumsApp/security/KeycloakRoleConverter.class
+com/appsdeveloperblog/ress/AlbumsApp/security/WebSecurity.class
+com/appsdeveloperblog/ress/AlbumsApp/controller/AlbumController.class
