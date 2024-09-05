@@ -1,0 +1,4 @@
+com/appsdeveloperblog/ress/PhotoApp/PhotoAppApplication.class
+com/appsdeveloperblog/ress/PhotoApp/controller/PhotoController.class
+com/appsdeveloperblog/ress/PhotoApp/security/KeycloakRoleConverter.class
+com/appsdeveloperblog/ress/PhotoApp/security/WebSecurity.class
