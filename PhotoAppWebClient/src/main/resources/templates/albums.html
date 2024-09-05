@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Photo Album client controller</title>
+    <link rel="stylesheet"
+          th:href="@{/css/styles.css}"
+    />
+</head>
+<body>
+<p>Photo albums.</p>
+<div th:if="${albums.empty}"><p>No album found</p></div>
+<div th:object="${albums}" th:each="album : ${albums}" >
+    <p><span th:text="${album.albumTitle}"/></p>
+</div>
+</body>
+</html>
